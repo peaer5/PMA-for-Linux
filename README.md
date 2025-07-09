@@ -10,5 +10,6 @@ Inspired by the book Practical Malware Analysis—widely regarded as one of the 
 
 Disclaimer:
 The binaries provided in this project are not identical to those in the original Practical Malware Analysis book. As such, the answers and solutions in the book may not directly apply here.
+
 Compatibility Notice:
 The binaries were compiled on Ubuntu 22.04 with kernel version 6.8.0-52. You may need to adjust your environment accordingly for debugging.
