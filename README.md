@@ -8,8 +8,12 @@ Inspired by the book Practical Malware Analysis—widely regarded as one of the 
 - A custom ELF binary to analyze
 - Brief walkthroughs and answers
 
+The project will focus on the relevant chapters where we can contribute our added value from the Linux world. Some of the exercises will be combined into a single binary file.
+The project will update with new binaries and explanations from time-to-time.
+
 Disclaimer:
 The binaries provided in this project are not identical to those in the original Practical Malware Analysis book. As such, the answers and solutions in the book may not directly apply here.
 
 Compatibility Notice:
 The binaries were compiled on Ubuntu 22.04 with kernel version 6.8.0-52. You may need to adjust your environment accordingly for debugging.
+
