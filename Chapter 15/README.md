@@ -1,3 +1,4 @@
+#Chapter 15 - Anti Disassembling
 Chapter 15 discusses anti-disassembling techniques. In short, these are methods that involve crafting assembly code in a way that exploits a disassembler's assumptions to hide malicious code.
 
 Since these techniques target specific disassemblers rather than operating systems, there's no need to provide a detailed explanation in this context.
