@@ -3,7 +3,7 @@ Chapter 16 focuses on anti-debugging - a set of techniques used by malware autho
 
 The book outlines several anti-debugging methods on Windows. Similar techniques exist on Linux as well, including:
 
- Checking the TracerPid field in /proc/self/status
- Using timing checks to detect delays caused by a debugger (as discussed in the book)
- Scanning for the 0xCC opcode, which is used by breakpoints (as mentioned in the book)
- Attaching a debugger to the process itself to block other debuggers from attaching
+ - Checking the TracerPid field in /proc/self/status
+ - Using timing checks to detect delays caused by a debugger (as discussed in the book)
+ - Scanning for the 0xCC opcode, which is used by breakpoints (as mentioned in the book)
+ - Attaching a debugger to the process itself to block other debuggers from attaching
