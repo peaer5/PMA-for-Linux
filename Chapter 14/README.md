@@ -2,3 +2,6 @@ Chapter 14 discusses malware focused network signatures. In short, we studied ho
 The main goal is to be one step before the attacker, get familiar with the techniques he use and use the indicators from one malware to another in case it's the same author.
 
 Since these techniques target network packets rather than operating systems, there's no need to provide a detailed explanation in this context.
+
+Hint:
+You may use the Python command "python -m http.server <Port>" and Wireshark.
