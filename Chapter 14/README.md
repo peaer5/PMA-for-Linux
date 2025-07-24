@@ -3,5 +3,5 @@ The main goal is to be one step before the attacker, get familiar with the techn
 
 Since these techniques target network packets rather than operating systems, there's no need to provide a detailed explanation in this context.
 
-Hint:
+**Hint:**
 You may use the Python command "python -m http.server <Port>" and Wireshark.
